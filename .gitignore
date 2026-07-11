@@ -1,0 +1,13 @@
+# Donnees lourdes - jamais sur GitHub
+Downloader/Output/
+*.nc
+
+# Identifiants sensibles
+.cdsapirc
+*.env
+api_keys.py
+
+# Fichiers Jupyter/Python temporaires
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
